@@ -18,7 +18,7 @@ Revision: C-58, September 20, 2019
 
     1. Upon receipt of a claim or request for provider certification information involving a provider practicing in the contractor’s jurisdiction but not on the TRICARE Encounter Provider (TEPRV) file, the contractor shall contact the provider, the state licensing board, the appropriate national or professional association, or other sources to determine that the provider meets certification requirements. The contractor may establish eligibility for certification by any of these means. Documentation may be a copy of the page from the most recent state licensor listings, screen print from on-line access to state board licensing files, or other methods that show proof that the provider meets the certification requirements.
 
-    1. If certification cannot be accomplished, all pending and subsequent claims for services from that provider shall be denied. If the provider is later determined to be authorized based on receipt of the required documentation, claims may be reopened and processed if requested by the provider or beneficiary.
+    1. I made a difference. The provider is later determined to be authorized based on receipt of the required documentation, claims may be reopened and processed if requested by the provider or beneficiary.
 
     1. Services delivered by any provider must be within the scope of the license or other legal authorization. The contractor shall maintain a current computer listing of all certified providers, including at a minimum the data required by the TSM, [Chapter 2, Section 2.10](../ts15/c2s2\_10.html\#FM65624). If the provider was initially certified by the contractor, the certification shall be supported by a documented and readily accessible hardcopy or electronic file documenting each provider’s qualifications. A hardcopy or electronic file documenting the provider’s existence on the TEPRV shall be maintained for all other providers.
 
@@ -36,6 +36,6 @@ Revision: C-58, September 20, 2019
 
 Medical supplies, DME, or DE otherwise allowable as a Basic Program or authorized Extended Care Health Option (ECHO) benefit purchased from an approved vendor (TPM, [Chapter 11, Section 9.1](../tp15/c11s9\_1.html\#FM68771)), may be cost-shared (currently or retroactively) when payment is made directly to the beneficiary.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDg4MTYyLDUwNDk4MjA4MCw3MTk1OT
-kxOTQsMTYxNjgzNjEwN119
+eyJoaXN0b3J5IjpbMTMyNjUxMDA0LDE3OTQ4ODE2Miw1MDQ5OD
+IwODAsNzE5NTk5MTk0LDE2MTY4MzYxMDddfQ==
 -->
