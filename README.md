@@ -35,45 +35,7 @@ Revision: C-58, September 20, 2019
 4.0 Vendors Of Medical Supplies, Durable Medical Equipment (DME), Or Durable Equipment (DE)
 
 Medical supplies, DME, or DE otherwise allowable as a Basic Program or authorized Extended Care Health Option (ECHO) benefit purchased from an approved vendor (TPM, [Chapter 11, Section 9.1](../tp15/c11s9\_1.html\#FM68771)), may be cost-shared (currently or retroactively) when payment is made directly to the beneficiary.
-
-5.0 TRICARE Provider File
-
-5.1 The TRICARE provider file is created from contractor submissions of TEPRVs as required in the TSM, [Chapter 2, Section 1.2](../ts15/c2s1\_2.html\#FM55057) and is a singular database which is added to or changed through contractors’ reporting activity. The concept of the TRICARE centralized provider file is based on the agency’s commitment to a singular database which operates on the premise of accountability. The contractor having contractual authority for provider certification in a given region has accountability for the TEPRVs for providers in that region and is responsible for ensuring these TEPRVs pass the TRICARE edits and for performing all maintenance transactions. This responsibility extends to those TEPRVs submitted in support of the claims processing by another contractor, except the Pharmacy contractor.
-
-5.2 Due to the various methods in use for defining contractor claims processing jurisdictions, a contractor having claims processing responsibility may not be the contractor having accountability for the TEPRV (i.e., having provider certification responsibility) for the provider rendering the service(s) on a claim. In this case, the servicing contractor (i.e., the claims processor) may have to obtain provider data from the certifying contractor. See [Chapter 8, Section 2, paragraph 6.0](c8s2.html\#FM29794) for instructions regarding development of out-of-jurisdiction provider certification information.
-
-6.0 Provider File Audits
-
-Each year, the contractor shall conduct an audit, which must include either 5% or 50, whichever is less, of all prime contractors’ and subcontractors’ individual network provider credentialing and privileging files to ensure that information is appropriately verified. The audit shall be completed prior to the start of each option period. Thirty calendar days prior to each audit, the contractor shall invite the Director, TRICARE Regional Offices (TROs), and the TDEFIC Contracting Officer’s Representative (COR), to monitor and/or participate in the audit. Not less than 85% of the audited files shall be in full compliance with all provider file requirements. Within five business days of the completion of the audit’s provider file review, the contractor shall submit to the Procuring Contracting Officer (PCO) and the Director, TROs, and the TDEFIC COR, a written Corrective Action Plan (CAP) which addresses all credentialing and privileging files not in full compliance. Within 30 calendar days after completion of the audit’s provider file review, the incomplete or incorrect files shall be corrected to full compliance and the contractor shall notify the Government when the files have been corrected.
-
-7.0 Criminal History Background Checks (CHBCs)
-
-7.1 Contractors shall perform CHBCs in accordance with Department of Defense Instruction (DoDI) 1402.5 (“Criminal History Background Checks on Individuals in Child Care Services”, see [http://www.dtic.mil/whs/directives/corres/pdf/140205p.pdf](http://www.dtic.mil/whs/directives/corres/pdf/140205p.pdf)) for clinical support agreement personnel working in a Military Treatment Facility (MTF)/Enhanced Multi-Service Market (eMSM) that are involved on a frequent and regular basis in the provision of care and services to children under the age 18\\. The background checks are required by Criminal Control (CC) Act, Public Law 101-647, Section 231 (CC Act 1990, 42 United States Code (USC) Section 13041). The contractor shall assemble all necessary documentation required by DoDI 1402.5 ([http://www.dtic.mil/whs/directives/corres/pdf/140205p.pdf](http://www.dtic.mil/whs/directives/corres/pdf/140205p.pdf)) for the background checks and forward the documentation to the office designated by the PCO or to the office designated in the Memorandum of Understanding (MOU) (see [Chapter 15, Addendum A](c15adA.html\#FM99245)).
-
-7.2 For health care practitioners requiring MTF/eMSM clinical privileges, the contractor shall furnish completed background check documentation to the MTF Commander/eMSM Manager prior to the award of privileges.
-
-7.3 For individuals who require background checks but not clinical privileges, the contractor shall furnish the completed documentation to the MTF Commander/eMSM Manager prior to employment at, or assignment to, the MTF/eMSM.
-
-7.4 While waiting the 30 day minimum period for a background check to be completed, the contractor shall follow the CHBC Procedures outlined in DoDI 1402.5 ([http://www.dtic.mil/whs/directives/corres/pdf/140205p.pdf](http://www.dtic.mil/whs/directives/corres/pdf/140205p.pdf)).
-
-Note: A CHBC is not required during the re-credentialing process. The contractor shall complete the criminal history background check at the time of initial credentialing and shall continue to follow the DoDI 1402.5 ([http://www.dtic.mil/whs/directives/corres/pdf/140205p.pdf](http://www.dtic.mil/whs/directives/corres/pdf/140205p.pdf)) which calls for a re-check after five years.
-
-8.0 Criminal History Reviews
-
-8.1 Contractors shall perform criminal history reviews on certain physician (see [paragraph 8.2](\#i67148)) and non-physician (see [paragraph 8.3](\#i67152)) network providers. Contractors may search federal, state, and county public records in performing criminal history checks. Contractors may subcontract for these services; for example, MEDI-NET, Inc., provides physician screening services, and ADREM Profiles, Inc., performs criminal history checks. The contractor shall document, in a form of the contractors’ choosing, the American Medical Association (AMA) screen and the results of all criminal history checks.
-
-8.2 Contractors shall screen their TRICARE network physicians’ licensure and discipline histories using the AMA’s master file. Contractors shall check the criminal histories of physicians with anomalies in their licensure history [i.e., who have four or more active and/or expired licenses] or who have been disciplined.
-
-8.3 Contractors also shall perform criminal history reviews on all non-physician providers who practice independently and who are not supervised by a physician (refer to [32 CFR 199.6(c)(3)](../fr16/c6.html\#FM80652) for types of providers).
-
-8.4 The contractor shall maintain a copy of all background check documentation with the provider certification files.
-
-8.5 The contractor is financially responsible for all credentialing requirements, including background reviews.
-
-Note: A criminal history review is not required during the recredentialing process. A criminal history review shall be completed by the contractor at the time of initial credentialing for those providers for whom criminal history reviews are required.
-
-- END -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDcyMzg1MCw1MDQ5ODIwODAsNzE5NT
-k5MTk0LDE2MTY4MzYxMDddfQ==
+eyJoaXN0b3J5IjpbMTc5NDg4MTYyLDUwNDk4MjA4MCw3MTk1OT
+kxOTQsMTYxNjgzNjEwN119
 -->
