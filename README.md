@@ -14,7 +14,7 @@ Revision: C-58, September 20, 2019
 
 #### 2. Provider Approvals
 
-    2. The contractor shall accurately authorize all providers of care using a single, centralized authorization process. The contractors shall ensure that all providers of care for whom a billing is made or claim submitted under TRICARE meet all conditions, limitations or exclusions specified or enumerated in 32 CFR 199, the TPM, and the TRICARE Operations Manual (TOM). The contractor shall maintain separate institutional and non-institutional provider files. Additions, deletions, and changes to these files, shall be reported to Defense Health Agency (DHA) as specified in the TRICARE Systems Manual (TSM).
+2.1 The contractor shall accurately authorize all providers of care using a single, centralized authorization process. The contractors shall ensure that all providers of care for whom a billing is made or claim submitted under TRICARE meet all conditions, limitations or exclusions specified or enumerated in 32 CFR 199, the TPM, and the TRICARE Operations Manual (TOM). The contractor shall maintain separate institutional and non-institutional provider files. Additions, deletions, and changes to these files, shall be reported to Defense Health Agency (DHA) as specified in the TRICARE Systems Manual (TSM).
 
 2.2 Upon receipt of a claim or request for provider certification information involving a provider practicing in the contractor’s jurisdiction but not on the TRICARE Encounter Provider (TEPRV) file, the contractor shall contact the provider, the state licensing board, the appropriate national or professional association, or other sources to determine that the provider meets certification requirements. The contractor may establish eligibility for certification by any of these means. Documentation may be a copy of the page from the most recent state licensor listings, screen print from on-line access to state board licensing files, or other methods that show proof that the provider meets the certification requirements.
 
@@ -74,5 +74,5 @@ Note: A criminal history review is not required during the recredentialing proce
 
 - END -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MDQ2MjcyNywxNjE2ODM2MTA3XX0=
+eyJoaXN0b3J5IjpbNzE5NTk5MTk0LDE2MTY4MzYxMDddfQ==
 -->
