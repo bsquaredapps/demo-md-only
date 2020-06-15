@@ -1,15 +1,16 @@
 
-Chapter 4
 
-Section 1
+# Chapter 4
 
-General
+## Section 1
+
+### General
 
 Revision: C-58, September 20, 2019
 
-1.0 Provider Certification Criteria
+1. Provider Certification Criteria
 
-Refer to the [32 CFR 199.6](../fr16/c6TOC.html\#FM92542) and the TRICARE Policy Manual (TPM), [Chapters 1](../tp15/c1TOC.html\#FM734932) and [11](../tp15/c11TOC.html\#FM309455). All providers shall be TRICARE certified in accordance with the TPM. Network providers shall be credentialed in accordance with nationally accepted credentialing standards adopted by a national accrediting body. “Authorized Provider” is any provider who meets the requirements set forth in [32 CFR 199.6](../fr16/c6TOC.html\#FM92542) and in the TPM, [Chapters 1](../tp15/c1TOC.html\#FM734932) and [11](../tp15/c11TOC.html\#FM309455). If a beneficiary submits a claim for services provided by a non-participating individual professional provider who is known to be legally practicing and is eligible for TRICARE-authorization, the provider shall be certified and payment shall be made to the beneficiary. In no case shall a provider who refuses to provide proper Social Security Number (SSN)/Employer Identification Number (EIN) identification be paid directly.
+	Refer to the [32 CFR 199.6](../fr16/c6TOC.html\#FM92542) and the TRICARE Policy Manual (TPM), [Chapters 1](../tp15/c1TOC.html\#FM734932) and [11](../tp15/c11TOC.html\#FM309455). All providers shall be TRICARE certified in accordance with the TPM. Network providers shall be credentialed in accordance with nationally accepted credentialing standards adopted by a national accrediting body. “Authorized Provider” is any provider who meets the requirements set forth in [32 CFR 199.6](../fr16/c6TOC.html\#FM92542) and in the TPM, [Chapters 1](../tp15/c1TOC.html\#FM734932) and [11](../tp15/c11TOC.html\#FM309455). If a beneficiary submits a claim for services provided by a non-participating individual professional provider who is known to be legally practicing and is eligible for TRICARE-authorization, the provider shall be certified and payment shall be made to the beneficiary. In no case shall a provider who refuses to provide proper Social Security Number (SSN)/Employer Identification Number (EIN) identification be paid directly.
 
 2.0 Provider Approvals
 
@@ -73,5 +74,5 @@ Note: A criminal history review is not required during the recredentialing proce
 
 - END -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3NjM5NjkyLDE2MTY4MzYxMDddfQ==
+eyJoaXN0b3J5IjpbLTEyOTkxNjAxMDIsMTYxNjgzNjEwN119
 -->
