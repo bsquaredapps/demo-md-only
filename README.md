@@ -12,9 +12,9 @@ Revision: C-58, September 20, 2019
 
 	Refer to the [32 CFR 199.6](../fr16/c6TOC.html\#FM92542) and the TRICARE Policy Manual (TPM), [Chapters 1](../tp15/c1TOC.html\#FM734932) and [11](../tp15/c11TOC.html\#FM309455). All providers shall be TRICARE certified in accordance with the TPM. Network providers shall be credentialed in accordance with nationally accepted credentialing standards adopted by a national accrediting body. “Authorized Provider” is any provider who meets the requirements set forth in [32 CFR 199.6](../fr16/c6TOC.html\#FM92542) and in the TPM, [Chapters 1](../tp15/c1TOC.html\#FM734932) and [11](../tp15/c11TOC.html\#FM309455). If a beneficiary submits a claim for services provided by a non-participating individual professional provider who is known to be legally practicing and is eligible for TRICARE-authorization, the provider shall be certified and payment shall be made to the beneficiary. In no case shall a provider who refuses to provide proper Social Security Number (SSN)/Employer Identification Number (EIN) identification be paid directly.
 
-#### 2. Provider Approvals
+2. Provider Approvals
 
-2.1 The contractor shall accurately authorize all providers of care using a single, centralized authorization process. The contractors shall ensure that all providers of care for whom a billing is made or claim submitted under TRICARE meet all conditions, limitations or exclusions specified or enumerated in 32 CFR 199, the TPM, and the TRICARE Operations Manual (TOM). The contractor shall maintain separate institutional and non-institutional provider files. Additions, deletions, and changes to these files, shall be reported to Defense Health Agency (DHA) as specified in the TRICARE Systems Manual (TSM).
+   1. The contractor shall accurately authorize all providers of care using a single, centralized authorization process. The contractors shall ensure that all providers of care for whom a billing is made or claim submitted under TRICARE meet all conditions, limitations or exclusions specified or enumerated in 32 CFR 199, the TPM, and the TRICARE Operations Manual (TOM). The contractor shall maintain separate institutional and non-institutional provider files. Additions, deletions, and changes to these files, shall be reported to Defense Health Agency (DHA) as specified in the TRICARE Systems Manual (TSM).
 
 2.2 Upon receipt of a claim or request for provider certification information involving a provider practicing in the contractor’s jurisdiction but not on the TRICARE Encounter Provider (TEPRV) file, the contractor shall contact the provider, the state licensing board, the appropriate national or professional association, or other sources to determine that the provider meets certification requirements. The contractor may establish eligibility for certification by any of these means. Documentation may be a copy of the page from the most recent state licensor listings, screen print from on-line access to state board licensing files, or other methods that show proof that the provider meets the certification requirements.
 
@@ -74,6 +74,6 @@ Note: A criminal history review is not required during the recredentialing proce
 
 - END -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjY3OTQyNiw3MTk1OTkxOTQsMTYxNj
-gzNjEwN119
+eyJoaXN0b3J5IjpbNTA0OTgyMDgwLDcxOTU5OTE5NCwxNjE2OD
+M2MTA3XX0=
 -->
